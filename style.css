@@ -3,7 +3,7 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  background-color: white;
+  background-color: salmon;
   position: fixed;
   top: 0;
   width: 100%;
@@ -20,7 +20,7 @@ li {
 }
 
 li a:hover {
-  background-color: salmon;
+  background-color: white;
 }
     h1 {
   color: black;
@@ -28,5 +28,5 @@ li a:hover {
 }
 
    body {
-  background-color: salmon;
+  background-color: lightblue;
 }
