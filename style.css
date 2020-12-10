@@ -1,4 +1,14 @@
 
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: salmon;
+  text-align: center;
+}
+
+/* Nav Bar Style*/
 ul {
   list-style-type: none;
   margin: 0;
@@ -22,13 +32,4 @@ li {
 li a:hover {
   background-color: white;
 }
-    h1 {
-  color: salmon;
-  text-align: center;
-}
-
-   body {
-  background-color: lightblue;
-}
-  
-
+   
