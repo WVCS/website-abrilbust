@@ -10,23 +10,26 @@ h1 {
 
 /* Nav Bar Style*/
 ul {
+  display: inline-block;
   list-style-type: none;
   margin: 0;
   padding: 0;
   background-color: salmon;
-  position: fixed;
-  top: 0;
   width: 100%;
   left: 0;
+  overflow: hidden;
 }
-  
+li{
+  float: left;
+}
 li a {
+ display: block;
+ text-decoration: none;
+ color: lightblue;
  text-align: center;
  display: block; 
  width: 60px;
- padding: 30px 20px;
- text-decoration: none;
- display: inline;
+ padding: 20px 80px;
 }
 
 
