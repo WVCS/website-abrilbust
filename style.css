@@ -26,15 +26,15 @@ li{
 li a {
  display: block;
  text-decoration: none;
- color: black;
+ color: lightblue;
  text-align: center;
  display: block; 
  width: 60px;
- padding: 15px 50px;
+ padding: 15px 30px;
 }
 
 li a:hover {
-  background-color: lightblue;
+  background-color: black;
   height: 38px;
 }
 
