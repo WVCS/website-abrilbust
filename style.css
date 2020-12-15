@@ -4,9 +4,9 @@ body {
 }
 
 h1 {
-  color: salmon;
+  color: black;
   text-align: center;
-  border: 3px solid black;
+  border: 3px solid salmon;
 }
 
 /* Nav Bar Style*/
@@ -15,7 +15,7 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  background-color: salmon;
+  background-color: black;
   width: 100%;
   left: 0;
   overflow: hidden;
@@ -34,7 +34,7 @@ li a {
 }
 
 li a:hover {
-  background-color: black;
+  background-color: salmon;
   height: 38px;
 }
 
