@@ -30,11 +30,11 @@ li a {
  text-align: center;
  display: block; 
  width: 60px;
- padding: 38px 30px;
+ padding: 20px 30px;
 }
 
 li a:hover {
   background-color: salmon;
-  height: 38px;
+  height: 20px;
 }
 
