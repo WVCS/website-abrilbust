@@ -45,3 +45,19 @@ li a:hover {
   font-family: 'Jura', sans-serif;
 }
 
+div.setPosition{
+  position: absolute;
+  background-color: salmon;
+  border: 3px dashed black;
+  top: 50px;
+  right: 100px;
+}
+
+div.sticky{
+  color: white;
+  position: sticky;
+  background-color: salmon;
+  border: 3px dashed black;
+  max-width: 50%;
+  top: 0; 
+}
