@@ -36,5 +36,7 @@ li a {
 li a:hover {
   background-color: salmon;
   height: 18px;
+  font-weight: bold;
+  font-family: 'Jura', sans-serif;
 }
 
