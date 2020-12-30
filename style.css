@@ -28,15 +28,17 @@ ul {
   width: 100%;
   left: 0;
   overflow: hidden;
-  font-size: 12px;
 }
+
 li{
   float: left;
 }
+
 li a {
  display: block;
  text-decoration: none;
  color: lightblue;
+ font-size: 18px;
  text-align: center;
  display: block; 
  width: 60px;
@@ -45,7 +47,6 @@ li a {
 
 li a:hover {
   background-color: black;
-  height: 18px;
   font-weight: bold;
   font-size: 16px;
   color: salmon;
