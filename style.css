@@ -55,6 +55,8 @@ div.setPosition{
   border: 3px dashed black;
   top: 50px;
   right: 100px;
+  font-size: 18px;
+  color: black;
 }
 
 div.sticky{
