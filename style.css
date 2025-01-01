@@ -57,7 +57,7 @@ li a:hover {
 div.sticky{
   color: white;
   position: sticky;
-  background-color: salmon;
+  background-color: darkblue;
   text-align: center;
   border: 3px dashed black;
   max-width: 25%;
